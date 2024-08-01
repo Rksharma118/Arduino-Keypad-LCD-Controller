@@ -34,7 +34,7 @@ K (LED Cathode) to Arduino GND
 Rows (1-4) to Arduino pins 9, 8, 7, 6 respectively
 Columns (1-4) to Arduino pins A0, A1, A2, A3 respectively
 
-Usage
+## Usage
 Power On: Connect the Arduino to your computer or a power source using a USB cable.
 Input Data: Press keys on the 4x4 matrix keypad.
 View Output: Observe the result on the 16x2 LCD display.
